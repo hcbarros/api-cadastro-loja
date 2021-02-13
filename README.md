@@ -26,3 +26,15 @@ CODIGO_LOJA, FAIXA_INICIO e FAIXA_FIM;
 ● As faixas de CEP não pode conflitar com as de outras lojas;
 ● Deve ser possível editar/excluir uma faixa de CEP;
 ● A aplicação deve ser feita em ​ Springboot​ + ​ REST​ + JPA/Hibernate
+
+base_url () -> http://localhost:8080/cadastro
+
+https://api-cadastro-cep-lojas.herokuapp.com/cadastro
+
+POST/\
+GET/\
+GET/{id}\
+PUT/{id}\
+GET/cep/{cep}\
+GET/codigo/{codigo}\
+DELETE/{id}\
